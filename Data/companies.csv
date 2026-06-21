@@ -1,0 +1,51 @@
+company_id,company_name,created_at
+1,Infosys,01-01-2026
+2,TCS,02-01-2026
+3,Wipro,03-01-2026
+4,HCL,04-01-2026
+5,Tech Mahindra,05-01-2026
+6,Accenture,06-01-2026
+7,Capgemini,07-01-2026
+8,Cognizant,08-01-2026
+9,IBM,09-01-2026
+10,Deloitte,10-01-2026
+11,Oracle,11-01-2026
+12,Microsoft,12-01-2026
+13,Google,13-01-2026
+14,Amazon,14-01-2026
+15,Adobe,15-01-2026
+16,Paytm,16-01-2026
+17,Flipkart,17-01-2026
+18,Zomato,18-01-2026
+19,Swiggy,19-01-2026
+20,PhonePe,20-01-2026
+21,Razorpay,21-01-2026
+22,Freshworks,22-01-2026
+23,Zoho,23-01-2026
+24,Myntra,24-01-2026
+25,Meesho,25-01-2026
+26,Naukri,26-01-2026
+27,UpGrad,27-01-2026
+28,Byjus,28-01-2026
+29,Unacademy,29-01-2026
+30,Ola,30-01-2026
+31,Uber,31-01-2026
+32,SAP,01-02-2026
+33,Salesforce,02-02-2026
+34,Intel,03-02-2026
+35,Cisco,04-02-2026
+36,Nvidia,05-02-2026
+37,AMD,06-02-2026
+38,Qualcomm,07-02-2026
+39,JP Morgan,08-02-2026
+40,Goldman Sachs,09-02-2026
+41,KPMG,10-02-2026
+42,EY,11-02-2026
+43,PwC,12-02-2026
+44,L&T,13-02-2026
+45,Reliance,14-02-2026
+46,Tata Steel,15-02-2026
+47,Mahindra,16-02-2026
+48,Bajaj,17-02-2026
+49,Hero,18-02-2026
+50,Havells,19-02-2026
